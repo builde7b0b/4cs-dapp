@@ -1,3 +1,43 @@
+# 4Cs Root Dapp
+
+## Description
+ A Decentralized Application Foundation Built for the purpose of easily Starting Dapps for the 4Cs NFT Ecosystem.
+
+## Screenshots 
+
+### Home Page
+ ![](./images/Home.png)
+
+### Code Snippet
+Adding Custom Chains
+ ![](./images/CronosChain.png)
+
+
+## Features 
+
+- Custom Chain Ready 
+
+- Read Contract Ready 
+
+## Todos
+- Write Contract Functionality 
+- Add UI Layout
+- Add Blockchain APIs
+
+
+
+
+
+
+
+
+
+
+
+
+
+# RainbowKit and wagmi Stuff
+
 This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit).
 
 ## Getting Started
@@ -27,4 +67,4 @@ You can check out [the RainbowKit GitHub repository](https://github.com/rainbow-
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# 4cs-dapp
+

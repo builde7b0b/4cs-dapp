@@ -67,7 +67,7 @@ const wagmiConfig = createConfig({
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <WagmiConfig config={wagmiConfig}>
-      <RainbowKitProvider chains={chains}>
+      <RainbowKitProvider  chains={chains} showRecentTransactions={true} >
         <Component {...pageProps} />
       </RainbowKitProvider>
     </WagmiConfig>
